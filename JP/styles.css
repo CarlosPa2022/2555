@@ -84,13 +84,18 @@ body{
     font-weight: bold;
 }
 
-.col1 p {
+.col1 p, .col1 ul{
     margin: 10px 0px;
     font-weight: 300;
 }
+.col1 .resultados{
+
+    margin-left: 2rem;
+}
+
 
 .col1 button {
-    width: 200px;
+    width: 250px;
     height: 36px;
     background-color: #fe8300;
     color: #fff;
