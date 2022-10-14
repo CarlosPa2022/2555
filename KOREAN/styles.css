@@ -512,6 +512,6 @@ body{
     color: rgb(255, 131, 0);
 }
 
-a{
-    color: #000;
- }
+.info a{
+    color: #ff8300;
+}
